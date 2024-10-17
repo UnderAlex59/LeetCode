@@ -1,8 +1,9 @@
 ### IntelliJ IDEA ###
+newData.txt
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-!**/src/MaximumFrequencyStack/newData.txt
+
 
 ### Eclipse ###
 .apt_generated
